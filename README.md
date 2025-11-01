@@ -13,7 +13,7 @@
 ## 快速开始
 
 ### 方法一：使用预编译版本
-1. 从 [Releases]([https://github.com/yourusername/certificate-classifier/releases](https://github.com/zjh-zjh-bit/Match-the-image-and-pdf-with-the-name-in-excel/releases/download/v1.0.0/default.exe)) 下载最新版本
+1. 从 [here](https://github.com/zjh-zjh-bit/Match-the-image-and-pdf-with-the-name-in-excel/releases/download/v1.0.0/default.exe) 下载最新版本
 2. 解压后运行 `证书分类工具.exe`
 3. 按照界面提示操作
 
